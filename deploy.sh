@@ -17,3 +17,6 @@ cp -rf dist/img/* img/
 
 echo "#### Copy fonts ####"
 cp -rf dist/fonts/* fonts/ 
+
+echo "### Remove dist folder ###"
+rm -rf dist
