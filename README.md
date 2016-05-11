@@ -1,2 +1,2 @@
 # fitio.github.io
-fitio.io primary repository
+fitio official website
